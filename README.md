@@ -1,1 +1,1 @@
-# Occupancy-Grid-Map-OGM-
+# Occupancy-Grid-Map-OGM
